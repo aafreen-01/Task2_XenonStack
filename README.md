@@ -16,11 +16,11 @@ Use a text editor to create a file named sysopctl.1 in /usr/local/share/man/man1
 2. Push to a private repository on GitHub.
 
 # 5. Screenshots
-![Screenshot-1](./images/Screenshot-2-Task2.png)
-![Screenshot-1](./images/Screenshot-3-Task2.png)
-![Screenshot-1](./images/Screenshot-4-Task2.png)
-![Screenshot-1](./images/Screenshot-5-Task2.png)
-![Screenshot-1](./images/Screenshot-6-Task2.jpeg)
+![Screenshot-1](Screenshot-2-Task2.png)
+![Screenshot-1](Screenshot-3-Task2.png)
+![Screenshot-1](Screenshot-4-Task2.jpg)
+![Screenshot-1](Screenshot-5-Task2.png)
+![Screenshot-1](Screenshot-6-Task2.jpg)
 
 
 
